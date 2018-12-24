@@ -1,5 +1,5 @@
 # 3d-printing
-THis is where I store all of my design files for my 3D models
+This is where I store all of my design files for my 3D models
 
 All of these files are licensed with a BSD license. Mostly because I was granted a BSD license from [Printable Scenery](https://www.printablescenery.com/) to use their OpenLOCK™ technology as the basis of my tiles.
 
@@ -16,3 +16,8 @@ Basically, I use the default Cura profile with a 10% infill.
 These take ~1.5 hours to print.
 
 You can learn how to make these for yourself by reading my [blog post](https://cerkit.com/2018/12/24/3d-printed-terrain/) or watching the [YouTube video](https://youtu.be/mtQGg3wtoMk).
+
+![OpenLOCK™ compatible](https://cerkit.com/content/images/2018/12/OpenLOCK-compatible.png)
+
+License:
+![OpenLOCK™ license](https://www.printablescenery.com/wp-content/uploads/2018/12/Michael-Earls-OpenLOCK-Licence.jpg)
