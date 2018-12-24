@@ -1,5 +1,7 @@
 # 3d-printing
-This is where I store all of my design files for my 3D models
+This is where I store all of my design files for my 3D models.
+
+Most of it is Roleplaying Game terrain tiles.
 
 All of these files are licensed with a BSD license. Mostly because I was granted a BSD license from [Printable Scenery](https://www.printablescenery.com/) to use their OpenLOCK™ technology as the basis of my tiles.
 
